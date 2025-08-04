@@ -1,5 +1,5 @@
 # Hi there 👋
-   Me chamo Tayanna Pereira sou estudante de Técnico em Informática /UFSM.
+Meu nome é Tayanna Pereira sou estudante de Técnico em Informática /UFSM.
 Sou natural de Tupanciretã ,atualmente resido em Santa Maria.
 Estou cursando segundo semestre de Técnico em informática 
 
