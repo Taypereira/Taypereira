@@ -2,7 +2,7 @@
 🖥️ Estou cursando segundo semestre de Técnico em Informática no Colégeio  Politécnico na Universidade Federal de Santa Maria(UFSM).
 📈 Em busca de oportunidades apara aplicar meus conhecimentos.
 
-### ⬇️Como entar em contato atraves de:
+### ⬇️Entar em contato atraves de:
 📸- instagram [pereiratay_](https://instagram.com)  
 ✉️- e-mail tayannafariasp@gmail.com ou tayanna.pereira@acad.ufsm.br
 
