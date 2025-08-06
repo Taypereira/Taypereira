@@ -10,7 +10,7 @@
 -Banco de Dados  
 -Engenharia de Software  
 -Sistema Operacional Proprietário  
--Algoritmos e Programação
+
   
 | Copetências   | Nível         | 
 | ------------- |:-------------:| 
