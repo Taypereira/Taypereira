@@ -11,12 +11,12 @@
 -Engenharia de Software  
 -Sistema Operacional Proprietário  
 -Algoritmos e Programação
-##### Quadro de copetências 
+  
 | Copetências   | Nível         | 
 | ------------- |:-------------:| 
 | C             | Intemediário  | 
 |  Python       | Intermediário |   
 |JavaScript     |   Iniciante   |  
 
-###### Projeto em estaques 
+#### Projeto em estaques 
 Logo estarei lançando novos projetos...
